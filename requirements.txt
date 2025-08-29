@@ -1,0 +1,4 @@
+kokoro
+sounddevice
+numpy
+torch
